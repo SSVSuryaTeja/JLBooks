@@ -8,7 +8,7 @@ namespace KimProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kims project");
-            Console.WriteLine("Testing the Branch");
+            Console.WriteLine("Added a Branch B Change");
         }
     }
 }
